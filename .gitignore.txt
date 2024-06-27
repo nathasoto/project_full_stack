@@ -1,0 +1,6 @@
+# Ignorar archivos de configuración local de Laravel
+/backend/.env
+
+# Ignorar dependencias de Node.js en Vue
+/frontend/node_modules
+/frontend/dist

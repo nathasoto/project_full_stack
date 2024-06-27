@@ -1,0 +1,5 @@
+laravel
+php artisan serve
+
+vue
+npm run dev
